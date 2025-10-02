@@ -8,7 +8,7 @@
     "dev": "vercel dev"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^6.7.5",
+    "@adiwajshing/baileys": "github:Tennor-modz/MD-Baileys",
     "dotenv": "^16.4.5",
     "fs-extra": "^11.2.0",
     "moment": "^2.30.1",
